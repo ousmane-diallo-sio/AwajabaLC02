@@ -4,7 +4,7 @@
 
         private $numero;
         private $date;
-/* Commit n°3 */
+/* Commit n°4 */
 
         public function __construct($numero, $date){
             $this->numero = $numero;
